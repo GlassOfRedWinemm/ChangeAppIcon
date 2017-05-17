@@ -3,6 +3,8 @@ Change the App Icon
 
 在项目中动态替换AppIcon
 
+![示例gif](https://github.com/GlassOfRedWinemm/ChangeAppIcon/ChangeAppIcon/ChangeAppIcon/ChangeAppIcon.gif)
+
 1、新建`Objective-C`项目
 
 2、右键`Info.plist->Open As->Source Code`,复制一下代码放入：
