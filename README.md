@@ -1,9 +1,9 @@
 # ChangeAppIcon
 Change the App Icon
 
-只需要傻瓜式集成：
+在项目中动态替换AppIcon
 
-1、新建`Objective-C`项目。
+1、新建`Objective-C`项目
 
 2、右键`Info.plist->Open As->Source Code`,复制一下代码放入：
 
@@ -54,6 +54,6 @@ Change the App Icon
     </dict>
 
 ```
-3、在`ViewController.m`实现中实现代码即可，为避免提示框显示，使用RunTime去除提示框，说的只是一个思路，具体参考代码。
+3、在`ViewController.m`实现中实现代码即可，为避免提示框显示，使用RunTime去除提示框，说的只是一个思路，具体参考代码
 
 
