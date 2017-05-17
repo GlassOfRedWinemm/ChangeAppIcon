@@ -2,8 +2,11 @@
 Change the App Icon
 
 只需要傻瓜式集成：
+
 1、新建`Objective-C`项目
+
 2、右键`Info.plist->Open As->Source Code`,复制一下代码放入：
+
 ```
     <key>CFBundleIcons</key>
     <dict>
