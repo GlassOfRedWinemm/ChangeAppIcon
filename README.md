@@ -1,6 +1,11 @@
 # ChangeAppIcon
 Change the App Icon
 
+
+
+
+
+
 ### 在项目中动态替换AppIcon
 
 ![示例gif](https://github.com/GlassOfRedWinemm/ChangeAppIcon/blob/master/ChangeAppIcon/ChangeAppIcon/ChangeAppIcon.gif)
