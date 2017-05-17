@@ -15,6 +15,7 @@
 		B6BE48F81ECC2ECC00AE35D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6BE48F61ECC2ECC00AE35D3 /* LaunchScreen.storyboard */; };
 		B6BE49011ECC2FD000AE35D3 /* boy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B6BE48FF1ECC2FD000AE35D3 /* boy.jpg */; };
 		B6BE49021ECC2FD000AE35D3 /* girl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B6BE49001ECC2FD000AE35D3 /* girl.jpg */; };
+		B6BE49041ECC36BF00AE35D3 /* ChangeAppIcon.gif in Resources */ = {isa = PBXBuildFile; fileRef = B6BE49031ECC36BF00AE35D3 /* ChangeAppIcon.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B6BE48F91ECC2ECC00AE35D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B6BE48FF1ECC2FD000AE35D3 /* boy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boy.jpg; sourceTree = "<group>"; };
 		B6BE49001ECC2FD000AE35D3 /* girl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = girl.jpg; sourceTree = "<group>"; };
+		B6BE49031ECC36BF00AE35D3 /* ChangeAppIcon.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ChangeAppIcon.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				B6BE48F41ECC2ECC00AE35D3 /* Assets.xcassets */,
 				B6BE48F61ECC2ECC00AE35D3 /* LaunchScreen.storyboard */,
 				B6BE48F91ECC2ECC00AE35D3 /* Info.plist */,
+				B6BE49031ECC36BF00AE35D3 /* ChangeAppIcon.gif */,
 				B6BE48E81ECC2ECC00AE35D3 /* Supporting Files */,
 			);
 			path = ChangeAppIcon;
@@ -147,6 +150,7 @@
 				B6BE49011ECC2FD000AE35D3 /* boy.jpg in Resources */,
 				B6BE49021ECC2FD000AE35D3 /* girl.jpg in Resources */,
 				B6BE48F81ECC2ECC00AE35D3 /* LaunchScreen.storyboard in Resources */,
+				B6BE49041ECC36BF00AE35D3 /* ChangeAppIcon.gif in Resources */,
 				B6BE48F51ECC2ECC00AE35D3 /* Assets.xcassets in Resources */,
 				B6BE48F31ECC2ECC00AE35D3 /* Main.storyboard in Resources */,
 			);
